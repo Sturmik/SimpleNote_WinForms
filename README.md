@@ -19,3 +19,9 @@ up alarms for specific time in the future to not miss important events.
 
 If user closes the app, it won't be able to inform him/her about specific events, however when user will open the app
 again it will show every single one of missed events.
+
+![alt text](https://github.com/Sturmik/SimpleNote_WinForms/blob/master/ShowcaseImages/NotifyForm1.PNG?raw=true)
+
+![alt text](https://github.com/Sturmik/SimpleNote_WinForms/blob/master/ShowcaseImages/NotifyForm2.PNG?raw=true)
+
+![alt text](https://github.com/Sturmik/SimpleNote_WinForms/blob/master/ShowcaseImages/NotifyForm3.PNG?raw=true)
